@@ -25,13 +25,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=512BD4" alt=".net logo" title=".net" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=C#&logoColor=239120" alt="C Sharp logo" title="C Sharp" height="25" /></span>
+<span><img src="https://img.shields.io/badge/CSharp-282C34?logo=C#&logoColor=239120" alt="C Sharp logo" title="C Sharp" height="25" /></span>
 &nbsp;
 
 
