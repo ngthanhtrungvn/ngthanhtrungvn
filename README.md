@@ -43,10 +43,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=4479A1" alt="SQL Server logo" title="SQL Server" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=4479A1" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
-
-
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker Server logo" title="Docker Server" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Azure DevOps-282C34?logo=azuredevops&logoColor=0078D7" alt="Azure DevOps Server logo" title="Azure DevOps Server" height="25" /></span>
+&nbsp;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
