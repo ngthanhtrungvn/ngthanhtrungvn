@@ -39,9 +39,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3776AB" alt="Android logo" title="Android" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" /></span>
 &nbsp;
-Android
 
 
 
