@@ -33,8 +33,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=c sharp&logoColor=239120" alt="C Sharp logo" title="C#" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=239120" alt="Angular logo" title="Angular" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" alt="Angular logo" title="Angular" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" /></span>
+&nbsp;
+
 
 
 
