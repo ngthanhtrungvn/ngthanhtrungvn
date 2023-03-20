@@ -57,6 +57,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" /></span>
+&nbsp;
 
 
 <h3 align="left">Connect with me:</h3>
