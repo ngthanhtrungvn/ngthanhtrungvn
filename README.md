@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Trung</h1>
 <h3 align="center">I'm Fullstack Developer</h3>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="left">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -28,6 +28,8 @@
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/.NET-282C34?logo=.NET&logoColor=#12BD4" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 
 
