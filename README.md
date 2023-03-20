@@ -31,7 +31,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=512BD4" alt=".net logo" title=".NET" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=c sharp&logoColor=239120" alt="C Sharp logo" title="C#" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=c sharp&logoColor=239120" alt="C Sharp logo" title="C đá" height="25" /></span>
 &nbsp;
 
 
