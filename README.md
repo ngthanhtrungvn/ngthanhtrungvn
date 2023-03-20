@@ -41,6 +41,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=003B57" alt="MySQL logo" title="MySQL" height="25" /></span>
+&nbsp;
 
 
 
