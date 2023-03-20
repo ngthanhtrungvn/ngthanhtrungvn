@@ -33,7 +33,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=c sharp&logoColor=239120" alt="C Sharp logo" title="C#" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=239120" alt="C logo" title="C" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=239120" alt="Angular logo" title="Angular" height="25" /></span>
 &nbsp;
 
 
